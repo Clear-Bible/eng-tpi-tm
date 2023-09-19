@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tmx>
-  <header/>
+<tmx version="1.4">
+  <header segtype="word" srclang="en_US" datatype="plaintext"/>
   <body>
     <tu>
       <tuv lang="en">

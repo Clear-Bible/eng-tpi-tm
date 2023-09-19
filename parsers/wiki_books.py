@@ -27,13 +27,10 @@ def parse():
                     entries.append([eng_part, tpi_parts[0]])
             if len(eng_parts) == 1 and len(tpi_parts) > 1:
                 for tpi_part in tpi_parts:
-                    # if eng_parts[0] == "antiseptic":
-                    # print(tpi_part)
-
                     entries.append([eng_parts[0], tpi_part])
 
-    for entry in entries:
-        print(entry)
+    # for entry in entries:
+    #     print(entry)
     return entries
 
 

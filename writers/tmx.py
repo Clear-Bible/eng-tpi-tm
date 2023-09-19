@@ -3,8 +3,8 @@ import lxml.etree as etree
 
 def write(parsed_entries):
     print("Writing TMX file... !!")
-    tmx_root = etree.Element("tmx")
-    tmx_header = etree.Element("header")
+    tmx_root = create_tmx_root()
+    tmx_header = create_tmx_header()
     tmx_body = etree.Element("body")
     tmx_root.append(tmx_header)
     tmx_root.append(tmx_body)
@@ -23,8 +23,22 @@ def write(parsed_entries):
 
     tree = etree.ElementTree(tmx_root)
     tree.write("output.xml", xml_declaration=True, encoding="UTF-8", pretty_print=True)
-    print(stringified_tmx)
+    # print(stringified_tmx)
     return stringified_tmx
+
+
+def create_tmx_root():
+    tmx_root = etree.Element("tmx")
+    tmx_root.attrib["version"] = "1.4"
+    return tmx_root
+
+
+def create_tmx_header():
+    tmx_header = etree.Element("header")
+    tmx_header.attrib["segtype"] = "word"
+    tmx_header.attrib["srclang"] = "en_US"
+    tmx_header.attrib["datatype"] = "plaintext"
+    return tmx_header
 
 
 def create_translation_unit():
