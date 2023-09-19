@@ -4,382 +4,6 @@
   <body>
     <tu>
       <tuv lang="en">
-        <seg>April</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>Epril</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>August</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>Ogas</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Australia</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>Ostrelia</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Bible</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>Baibel</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Bird of Paradise</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>kumul</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Burns Philp</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>Bipi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Catholic</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>Katolik</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Christian</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>kristen</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Christmas</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>krismas</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Coca</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>Cola</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>December</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>Desemba</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Easter</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>Ista</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>English</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>Inglis</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Europeans</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>mastamisis</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Europeans</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>ol waitman</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>February</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>Februeri</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Friday</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>Fraide</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>G</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>string</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Germany</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>Jemeni</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>God</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>God</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>God</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>Got</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>I</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>mi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>January</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>Janueri</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>July</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>Julai</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>June</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>Jun</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Lutheran</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>luteran</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Malay apple</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>laulau</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Manam Island</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>ailan Manam</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>March</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>Mas</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Monday</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>Mande</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>New Zealand</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>Niu Silan</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>November</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>Novemba</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>October</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>Oktoba</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>PMV</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>piemvi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Prime Minister</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>Prai Minista</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Qantas </seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>Kwantas</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Saturday</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>Sarere</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Sepik River</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>wara Sepik</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Sepik River</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>riva Sepik</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>September</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>Septemba</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>South</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>saut</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Steamships</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>Stimsip</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Sunday</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>Sande</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>T</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>shirt</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Thursday</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>Fonde</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Tuesday</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>Tunde</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Wednesday</seg>
-      </tuv>
-      <tuv lang="tpi">
-        <seg>Trinde</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>a</seg>
       </tuv>
       <tuv lang="tpi">
@@ -996,6 +620,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>April</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>Epril</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>area</seg>
       </tuv>
       <tuv lang="tpi">
@@ -1224,6 +856,22 @@
       </tuv>
       <tuv lang="tpi">
         <seg>naispela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>August</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>Ogas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Australia</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>Ostrelia</seg>
       </tuv>
     </tu>
     <tu>
@@ -1916,6 +1564,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bible</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>Baibel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>bicycle</seg>
       </tuv>
       <tuv lang="tpi">
@@ -1952,6 +1608,14 @@
       </tuv>
       <tuv lang="tpi">
         <seg>pisin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bird of Paradise</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>kumul</seg>
       </tuv>
     </tu>
     <tu>
@@ -2588,6 +2252,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Burns Philp</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>Bipi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>bury</seg>
       </tuv>
       <tuv lang="tpi">
@@ -2972,6 +2644,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Catholic</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>Katolik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>cattle</seg>
       </tuv>
       <tuv lang="tpi">
@@ -3316,6 +2996,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Christian</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>kristen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Christmas</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>krismas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>church</seg>
       </tuv>
       <tuv lang="tpi">
@@ -3600,6 +3296,14 @@
       </tuv>
       <tuv lang="tpi">
         <seg>kot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Coca</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>Cola</seg>
       </tuv>
     </tu>
     <tu>
@@ -4548,6 +4252,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>December</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>Desemba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>decide</seg>
       </tuv>
       <tuv lang="tpi">
@@ -5228,6 +4940,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Easter</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>Ista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>easy</seg>
       </tuv>
       <tuv lang="tpi">
@@ -5396,6 +5116,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>English</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>Inglis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>enjoy</seg>
       </tuv>
       <tuv lang="tpi">
@@ -5472,6 +5200,22 @@
       </tuv>
       <tuv lang="tpi">
         <seg>kirapim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Europeans</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>mastamisis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Europeans</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>ol waitman</seg>
       </tuv>
     </tu>
     <tu>
@@ -5856,6 +5600,14 @@
       </tuv>
       <tuv lang="tpi">
         <seg>gras bilong pisin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>February</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>Februeri</seg>
       </tuv>
     </tu>
     <tu>
@@ -6556,6 +6308,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Friday</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>Fraide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>fried</seg>
       </tuv>
       <tuv lang="tpi">
@@ -6732,6 +6492,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>G</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>string</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>gallon</seg>
       </tuv>
       <tuv lang="tpi">
@@ -6832,6 +6600,14 @@
       </tuv>
       <tuv lang="tpi">
         <seg>kok </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Germany</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>Jemeni</seg>
       </tuv>
     </tu>
     <tu>
@@ -6976,6 +6752,22 @@
       </tuv>
       <tuv lang="tpi">
         <seg>me</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>God</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>God</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>God</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>Got</seg>
       </tuv>
     </tu>
     <tu>
@@ -8060,6 +7852,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>mi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ice</seg>
       </tuv>
       <tuv lang="tpi">
@@ -8484,6 +8284,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>January</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>Janueri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>jaw's harp</seg>
       </tuv>
       <tuv lang="tpi">
@@ -8564,10 +8372,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>July</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>Julai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>jump </seg>
       </tuv>
       <tuv lang="tpi">
         <seg>kalap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>June</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>Jun</seg>
       </tuv>
     </tu>
     <tu>
@@ -9548,6 +9372,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Lutheran</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>luteran</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>lying down</seg>
       </tuv>
       <tuv lang="tpi">
@@ -9652,6 +9484,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Malay apple</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>laulau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>male</seg>
       </tuv>
       <tuv lang="tpi">
@@ -9684,6 +9524,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Manam Island</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>ailan Manam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>mango</seg>
       </tuv>
       <tuv lang="tpi">
@@ -9712,6 +9560,14 @@
       </tuv>
       <tuv lang="tpi">
         <seg>map</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>March</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>Mas</seg>
       </tuv>
     </tu>
     <tu>
@@ -10164,6 +10020,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Monday</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>Mande</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>money</seg>
       </tuv>
       <tuv lang="tpi">
@@ -10572,6 +10436,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>New Zealand</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>Niu Silan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>newspaper</seg>
       </tuv>
       <tuv lang="tpi">
@@ -10772,6 +10644,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>November</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>Novemba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>now</seg>
       </tuv>
       <tuv lang="tpi">
@@ -10848,6 +10728,14 @@
       </tuv>
       <tuv lang="tpi">
         <seg>pulap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>October</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>Oktoba</seg>
       </tuv>
     </tu>
     <tu>
@@ -12044,6 +11932,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PMV</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>piemvi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>point out</seg>
       </tuv>
       <tuv lang="tpi">
@@ -12396,6 +12292,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Prime Minister</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>Prai Minista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>prison</seg>
       </tuv>
       <tuv lang="tpi">
@@ -12648,6 +12552,14 @@
       </tuv>
       <tuv lang="tpi">
         <seg>moran</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Qantas </seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>Kwantas</seg>
       </tuv>
     </tu>
     <tu>
@@ -13452,6 +13364,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Saturday</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>Sarere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>sauce</seg>
       </tuv>
       <tuv lang="tpi">
@@ -13736,6 +13656,30 @@
       </tuv>
       <tuv lang="tpi">
         <seg>salim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sepik River</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>wara Sepik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sepik River</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>riva Sepik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>September</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>Septemba</seg>
       </tuv>
     </tu>
     <tu>
@@ -14740,6 +14684,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>South</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>saut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>soya sauce</seg>
       </tuv>
       <tuv lang="tpi">
@@ -15056,6 +15008,14 @@
       </tuv>
       <tuv lang="tpi">
         <seg>stilim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Steamships</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>Stimsip</seg>
       </tuv>
     </tu>
     <tu>
@@ -15436,6 +15396,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sunday</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>Sande</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>sunglasses</seg>
       </tuv>
       <tuv lang="tpi">
@@ -15560,6 +15528,14 @@
       </tuv>
       <tuv lang="tpi">
         <seg>kunai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>T</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>shirt</seg>
       </tuv>
     </tu>
     <tu>
@@ -16152,6 +16128,14 @@
       </tuv>
       <tuv lang="tpi">
         <seg>klaut i pairap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thursday</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>Fonde</seg>
       </tuv>
     </tu>
     <tu>
@@ -16752,6 +16736,14 @@
       </tuv>
       <tuv lang="tpi">
         <seg>traim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tuesday</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>Tunde</seg>
       </tuv>
     </tu>
     <tu>
@@ -17480,6 +17472,14 @@
       </tuv>
       <tuv lang="tpi">
         <seg>taim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wednesday</seg>
+      </tuv>
+      <tuv lang="tpi">
+        <seg>Trinde</seg>
       </tuv>
     </tu>
     <tu>

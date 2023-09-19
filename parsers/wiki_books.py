@@ -29,9 +29,9 @@ def parse():
                 for tpi_part in tpi_parts:
                     entries.append([eng_parts[0], tpi_part])
 
-    # for entry in entries:
+    sorted_entries = sorted(entries, key=lambda x: x[0].lower())
+    # for entry in sorted_entries:
     #     print(entry)
-    sorted_entries = sorted(entries, key=lambda x: x[0])
     return sorted_entries
 
 
