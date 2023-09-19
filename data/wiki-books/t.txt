@@ -1,0 +1,312 @@
+==T==
+
+table - tebol
+
+tail - tel
+
+tailor (n) - man bilong samapim klos
+
+take - kisim, bringim
+
+:take away - tekewe
+
+:take contraceptives - pasim bel
+
+:take off (plane) - kirap
+
+:take temperature - glasim
+
+:take to court - kotim
+
+talk - tok, toktok
+
+:talk about - toktok long
+
+:talkative person - man bilong toktok
+
+tall - long
+
+tall tale - tok gumi
+
+tape (recording) - tep
+
+tape-recorder - teprikoda
+
+tapioca - tapiok, kasara
+
+tap root - kil bilong diwai
+
+taro - taro
+
+taste (vb) - traiim
+
+tax - takis
+
+taxi - taksi
+
+tea (in liquid form) - ti
+
+:cup of tea - kapti
+
+:tea leaves - lipti
+
+tea-cup - kap bilong ti
+
+teach - skulim
+
+teacher - tisa
+
+teapot - tipot
+
+tease - hambakim
+
+teeth - tit
+
+telegram - wailis
+
+telephone - telepon, telipon
+
+television - bokis wailis wantem piksa
+
+tell - tokim
+
+tell lies to, fool - giamanim
+
+temperature - makim hat o kol
+
+temple - haus lotu
+
+
+tempt - traim
+
+ten - ten, tenpela
+
+tenth - namba ten
+
+terrible, tenth rate - nambaten
+
+testicles - bol
+
+than - long
+
+thank you - tenkyu
+
+that - olsem, dispela
+
+that's all - em tasol
+
+theatre - haus piksa
+
+theft - stil
+
+their - bilong ol
+
+thief - stilman
+
+then (at that time) - dispela taim
+
+there - long hap
+
+there is - i gat
+
+they - ol
+
+thick - strong 
+
+thigh - mit bilong lek
+
+thin - bun nating
+
+thing - samting
+
+think - ting, tingting
+
+third - namba tri
+
+thirsty - hangre long dring
+
+this - dispela, ya
+
+those (two) - emtupela
+
+:those (three) - emtripela
+
+thoughts - tingting
+
+three - tri, tripela
+
+thread (n) - tret
+
+throat - nek
+
+through - long namel long
+
+throw - tromoi
+
+throw away - rausim, troimweim
+
+thunder - klaut i pairap
+
+Thursday - Fonde
+
+ticket - tiket
+
+:ticket-office - tiket ofis
+
+tide - tait
+
+tie (n) - nektait
+
+tighten - taitim
+
+tilapia (fish sp.) - makao
+
+time - taim
+
+timetable - taimtebol
+
+tin - tin
+
+:tin opener - op tin
+
+:tinned fish - tinpis
+
+:tinned meat - tinmit
+tinea - grile, skin pukpuk
+
+tip - kapsaitim
+
+tip-truck, dump-truck - tipa
+
+tired - les, skin i les/slek, bun i slek
+
+to - long
+
+toast - tos; tostim (bret)
+
+tobacco - brus, tabak, stik tabak, tobako
+
+today - tede, tude
+
+toea (monetary unit 1/100 Kina) - toea
+
+toe - pinga bilong lek
+
+together - wantaim
+
+toilet - smol haus, liklik haus, haus pekpek, toilet
+
+:toilet (men) - haus pekpek man
+
+:toilet (women) - haus pekpek meri
+
+:toilet paper - pepa pekpek
+
+:toilet soap - sop i gat smel
+
+tomahawk - tamiok
+
+tomatoe(s) - tomato
+
+:tomato sauce - retsos, retpela sos, tomato sos
+
+tomorrow - tumaro
+
+tongue - tang
+
+tonight - tunait
+
+too - tumas, tu
+
+tooth - tit
+
+toothache - tit i pen
+
+toothbrush - bros bilong tit
+
+toothpaste - sop bilong tit
+
+torch, headlamps - sutlam
+
+totem, clan - pisin
+touch - pilim
+
+tourist - turis, kam man
+
+towel - taul
+
+tower - taua
+
+town - taun
+
+:town hall - kaunsel haus
+
+track - liklik rot, hanrot
+
+tracked vehicle - senka(r)
+
+tradition of ancestors - tok bilong ol tumbuna
+
+train - tren
+
+translate - tanim tok ples
+
+travel - wokabaut
+
+traveling companion - wanwokabaut
+
+tree - diwai
+
+:tree kangaroo - kapul
+
+trench, drain - baret
+
+tributary - hanwara
+
+trip, tour - wokabaut
+
+trouble - trabel, trabol
+
+troublemaker - trabelman
+
+trousers - trausis
+
+truck - trak
+
+true - tru
+
+truth - tok tru
+
+try, try on - traim
+
+T-shirt - tisiot, T-siot
+
+Tuesday - Tunde
+
+tune - nek
+
+turn - tanim
+
+:turn round - tantanim
+
+:turn (boat) - bautim
+
+:turn steering wheel - tanim stia
+
+turtle - trosel, trausel
+
+:turtle's flipper - pul bilong trausel
+
+twenty - twenti, tupela ten
+
+twice - tupela taim
+
+two - tu, tupela
+
+type - taipim
+
+typewriter - taipraita
+
+typist - taipis
+
+tyre - taia, gumi

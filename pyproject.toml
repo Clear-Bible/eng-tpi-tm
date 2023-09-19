@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "eng-tpi-tm"
+version = "0.1.0"
+description = "Constructing and English/Tok Pisin translation memory."
+authors = ["Mike Brinker <themikejr@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "eng_tpi_tm"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+lxml = "^4.9.3"
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.9.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
