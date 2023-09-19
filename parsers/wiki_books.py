@@ -31,7 +31,8 @@ def parse():
 
     # for entry in entries:
     #     print(entry)
-    return entries
+    sorted_entries = sorted(entries, key=lambda x: x[0])
+    return sorted_entries
 
 
 def clean_lines(dirty_lines):
