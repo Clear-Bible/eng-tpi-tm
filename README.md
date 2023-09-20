@@ -21,3 +21,9 @@ _Look at the results!_
 ```sh
 vim output.xml
 ```
+
+## Notes
+
+- Useful [TMX Validator](https://www.maxprograms.com/products/tmxvalidator.html) tool.
+- TMX XML Schema [Spec](http://xml.coverpages.org/TMX-SpecV13.html)
+- TMX XML schema [Implementation Notes](https://www.ttt.org/oscarStandards/tmx/tmxnotes.htm)
